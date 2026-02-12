@@ -91,8 +91,5 @@ If you have any questions or need help, feel free to reach out via GitHub Issues
 - **OpenAI** for developing groundbreaking AI technologies.
 - **Streamlit** for providing an excellent platform for creating interactive web applications.
 
-## Contact
-
-If you found this project helpful, consider supporting me by starring the repository or sharing it with others. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/vallabhaneni-girisha-565728304) and [Mail](girishavallabhaneni123@gmail.com).
 
 ---
